@@ -3,9 +3,9 @@ Proyek Ujian Akhir Semester (UAS) Mata Kuliah Pemrograman Perangkat Bergerak (PP
 Kelas: 5B - Sistem Informasi Kelompok: 3
 
 Anggota:
-Asep Imam Wahyudi	(2310631250006)
-Muhammad Iqbal Pratama	(2310631250097)
-Dhafa Fikriansyiah Putra	(2310631250012)
+1. Asep Imam Wahyudi	(2310631250006)
+2. Muhammad Iqbal Pratama	(2310631250097)
+3. Dhafa Fikriansyiah Putra	(2310631250012)
 
 📄 Deskripsi Proyek dan Arsitektur Sistem
 StudyMate adalah aplikasi Learning Management System (LMS) berbasis mobile native yang dikembangkan menggunakan Flutter. Proyek ini bertujuan untuk menyediakan akses cepat, terpusat, dan real-time terhadap informasi akademik mahasiswa, mengatasi keterbatasan akses sistem berbasis web konvensional pada perangkat seluler.
